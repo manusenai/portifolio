@@ -1,0 +1,63 @@
+.div{
+    font-size: 45px;
+    height: 100px;
+    width: 100px;
+    margin-right: 10px;
+    margin-left: 1100px;
+    margin-top: -70px;
+    margin-bottom: 100px;
+    border-radius: 0%;
+}
+
+.div2{
+    font-size: 27px;
+    border-left: 10px;
+    border-right: 10px;
+    border:#d22e82 solid;
+    margin-bottom: 200px;
+    margin-left: 10px;
+    margin-right: 10px;
+    border-radius: 5px;
+    font-family: 'Roboto Mono', monospace;
+
+}
+
+h1{
+    font-size: 40px;
+    margin-left:20px;
+    color:palevioletred;
+    font-family: 'Tilt Neon', cursive;
+}
+
+.insta {
+    text-decoration: none;
+    margin-left: 40px; 
+    font-size: 40px;
+    color:palevioletred;
+}
+
+.twitter {
+    text-decoration: none;
+    margin-left: 400px;
+    font-size: 40px;
+    color:palevioletred;
+}
+
+.spotify {
+    text-decoration: none;
+    float:right;
+    margin-right: 40px;
+    font-size: 40px;
+    color:palevioletred;
+}
+
+#teste {
+    border:#d22e82 solid;
+    border-radius: 10px;
+}
+
+img{
+    border-radius: 50%;
+    height:120px; 
+    width: 120px;
+}
